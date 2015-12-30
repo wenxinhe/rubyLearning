@@ -48,5 +48,5 @@ if __FILE__ == $0
 	greeter.say_hi
 	greeter.say_bye
 
-
+	nil.null
 end
