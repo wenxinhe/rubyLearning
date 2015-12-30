@@ -1,3 +1,6 @@
+# [20分钟体验 Ruby](https://www.ruby-lang.org/zh_cn/documentation/quickstart/)
+
+
 class MegaGreeter
 	attr_accessor :names
 
